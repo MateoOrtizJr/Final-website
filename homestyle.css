@@ -194,7 +194,7 @@ nav ul li a:hover::after{
 
 }
 .parallax {
-  background-image: url("coding.gif");
+  background-image: url(coding.gif);
   min-height: 500px; 
   background-attachment: fixed;
   background-position: center;

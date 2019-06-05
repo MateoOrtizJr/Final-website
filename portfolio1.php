@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="homestyle.css">
     <link rel="stylesheet" href="port.js" type="text/css">
 </head>
-
+<body>
 
 <header class="por">
         <div class="menu-toggle" id="hamburger">
@@ -17,11 +17,11 @@
             <nav>
                 <h1 class="brand"><a href="index.html">Mateo's<span>Web</span>site</a></h1>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Aboutme1.html">About Me</a></li>
-                    <li><a href="portfolio1.html">Portfolio</a></li>
-                    <li><a href="Resume.html">Resume</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                     <li><a href="index.php">Home</a></li>
+                    <li><a href="Aboutme1.php">About Me</a></li>
+                    <li><a href="portfolio1.php">Portfolio</a></li>
+                    <li><a href="Resume.php">Resume</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul></nav>
                 <h1>Innovation</h1>
 <div class="sle">
@@ -49,8 +49,6 @@ Spring showcase.</p>
 </div>
     </div>
     </header>
-  <body>
-
  <footer id="footer">
        <nav>
                 <ul>
